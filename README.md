@@ -1,4 +1,4 @@
-# template-project
+# Model adequateness for PixelPop
 
 Current draft is [here](https://github.com/mdmould/template-project/blob/build/draft.pdf).
 
